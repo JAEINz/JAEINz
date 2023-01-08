@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=001DB7&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000D50&height=150)
 
 <div align=center><h1>⚙️ STACKS ⚙️</h1></div>
 <div align=center> 
