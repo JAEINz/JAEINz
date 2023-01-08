@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=bbd3e5&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=bbd3e5&height=150)
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
@@ -31,7 +31,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEINz&layout=compact&show_icons=ture&show_owner=ture&hide_title=ture&theme=nord" />
   </a>
 </p>
-<h3 align="center">💡 My Git Stats 💡</h3>
+<h3 align="center"> My Git Stats </h3>
 <p align="center">
   <a href="https://github.com/JAEINz">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JAEINz&hide_title=$ture&show_icons=ture&include_all_commits=ture&theme=nord" />
@@ -39,4 +39,4 @@
 </p>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=bbd3e5&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=bbd3e5&height=150&section=footer)
