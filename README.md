@@ -1,12 +1,4 @@
-htmlㅇ
-cssㅇ
-jsㅇ
-mongodbㅇ
-mysqlㅇ
-expressㅇ
-node.jsㅇ
-amazonAWSㅇ
-githubㅇ
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200)
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
@@ -30,4 +22,5 @@ githubㅇ
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
