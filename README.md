@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=bbd3e5&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d2cec1&height=150)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>⚙️ STACKS ⚙️</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,7 +15,7 @@
 </div>
 </br>
 
-<div align=center><h1>📚 Cowork Tools</h1></div>
+<div align=center><h1>🔧 Cowork Tools 🔧</h1></div>
 <div align=center> 
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></br>
@@ -42,4 +42,4 @@
 </p>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=bbd3e5&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=d2cec1&height=150&section=footer)
