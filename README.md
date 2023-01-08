@@ -31,7 +31,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEINz&layout=compact&show_icons=ture&show_owner=ture&hide_title=ture&theme=nord" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZAEINz)](https://github.com/ZAEINz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEINz)](https://github.com/JAEINz/github-readme-stats)
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=bbd3e5&height=200&section=footer)
