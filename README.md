@@ -25,4 +25,4 @@
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=24292f&height=100)
+![footer](https://capsule-render.vercel.app/api?color=24292f&height=100)
