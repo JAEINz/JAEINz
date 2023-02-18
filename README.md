@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=309D76&height=130)
 
-
 <div align=center><h1>⚙️ STACKS ⚙️</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -29,7 +28,8 @@
  <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </div>
-</br> </br>
+</br>
+</br>
 
 
 
@@ -48,6 +48,7 @@
 </p>
 
 </br>
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=309D76&height=130&section=footer)
