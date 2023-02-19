@@ -46,7 +46,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JAEINz&hide_title=$ture&show_icons=ture&include_all_commits=ture&theme=nord"/>
   </a>
 </p>
-
 </br>
 
 
